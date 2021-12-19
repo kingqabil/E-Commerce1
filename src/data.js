@@ -30,12 +30,47 @@ export const categories = [
     },
     {
         id: 2,
-        img: "https://i.ibb.co/T0LW5pp/Indiwa.jpg",
+        img: "https://i.ibb.co/T0LW5pp/Indiwa.png",
         title: "SHIRT LOVE",
     },
     {
         id: 3,
         img: "https://i.ibb.co/T0LW5pp/Indiwa.png",
         title: "SHIRT JACKETS",
+    },
+];
+
+export const popularProducts = [
+    {
+        id: 1,
+        img: "https://i.ibb.co/T0LW5pp/Indiwa.png",
+    },
+    {
+        id: 2,
+        img: "https://i.ibb.co/T0LW5pp/Indiwa.png",
+    },
+    {
+        id: 3,
+        img: "https://i.ibb.co/T0LW5pp/Indiwa.png",
+    },
+    {
+        id: 4,
+        img: "https://i.ibb.co/T0LW5pp/Indiwa.png",
+    },
+    {
+        id: 5,
+        img: "https://i.ibb.co/T0LW5pp/Indiwa.png",
+    },
+    {
+        id: 6,
+        img: "https://i.ibb.co/T0LW5pp/Indiwa.png",
+    },
+    {
+        id: 7,
+        img: "https://i.ibb.co/T0LW5pp/Indiwa.png",
+    },
+    {
+        id: 8,
+        img: "https://i.ibb.co/T0LW5pp/Indiwa.png",
     },
 ];
